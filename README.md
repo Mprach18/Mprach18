@@ -2,7 +2,7 @@
 I’m a graduate student at the University of Colorado Boulder, majoring in Computer Science. It has been a while since I started to explore this dynamic field of Computer Science and currently, I would say that I’m all about two things - one, crafting innovative software solutions, and second, navigating the intricate world of data and intelligence. I love tackling challenges and applying my technical expertise to create solutions that don't just solve problems but also drive growth.
 
 <div id="header" align="center">
-  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnluaTB3dXVsejJlNWl3ZHoyZXA3aXl3Y3RtdXh1OW51eG9hb2RubCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif)" width="100"/>
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnluaTB3dXVsejJlNWl3ZHoyZXA3aXl3Y3RtdXh1OW51eG9hb2RubCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="100"/>
 </div>
 
 
