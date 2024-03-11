@@ -7,10 +7,6 @@ It has been a while since I started to explore this dynamic field of Computer Sc
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnluaTB3dXVsejJlNWl3ZHoyZXA3aXl3Y3RtdXh1OW51eG9hb2RubCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="500"/>
 </div>
 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/prachiteemaratkar) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@prachiteemaratkar3818) [!Profile Views](https://komarev.com/ghpvc/?username=Mprach18)
-
 <div id="badges">
   <a href="https://linkedin.com/in/prachiteemaratkar">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -18,7 +14,5 @@ It has been a while since I started to explore this dynamic field of Computer Sc
   <a href="https://youtube.com/@@prachiteemaratkar3818">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <a href="your-twitter-URL">
-    <img src="https://komarev.com/ghpvc/?username=Mprach18&style=flat-square&color=blue" alt=""/>
-  </a>
 </div>
+<img src="https://komarev.com/ghpvc/?username=Mprach18&style=flat-square&color=blue" alt=""/>
