@@ -65,8 +65,17 @@ It has been a while since I started to explore this dynamic field of Computer Sc
 <img src="https://github.com/devicons/devicon/blob/master/icons/hadoop/hadoop-original.svg" title="Hadoop" alt="Hadoop" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/mapreduce/mapreduce-original.svg" title="MapReduce" alt="MapReduce" width="40" height="40"/>
 
+<!-- Web Technologies -->
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS3" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Javascript" alt="javascript" width="40" height="40"/>
 
-  <!-- Web Technologies -->
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS3" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Javascript" alt="javascript" width="40" height="40"/>
+
+---
+
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Mprach18&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mprach18&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Github stats](https://github-readme-stats.vercel.app/api?username=Mprach18&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
