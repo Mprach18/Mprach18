@@ -1,7 +1,7 @@
 # About Me:
-I’m a graduate student at the University of Colorado Boulder, majoring in Computer Science. Prior to joining CU Boulder, I worked as a Software Engineer for 1.3 years in the FinTech industry.
+I am Prachitee Maratkar, a dedicated tech enthusiast with a passion for software engineering and data science. I hold a Bachelor's degree in Information Technology and a Master's degree in Computer Science. My professional experience spans software engineering, DevOps, and data engineering, with projects in machine learning and deep learning.
 
-It has been a while since I started to explore this dynamic field of Computer Science and currently, I would say that I’m all about two things - one, crafting innovative software solutions, and second, navigating the intricate world of data and intelligence. I love tackling challenges and applying my technical expertise to create solutions that don't just solve problems but also drive growth.
+I thrive on tackling challenging problems and leveraging my technical expertise to create innovative solutions that drive growth. With a solid foundation in computer science, I am eager to contribute to projects that harness the power of data and technology to make a positive impact.
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnluaTB3dXVsejJlNWl3ZHoyZXA3aXl3Y3RtdXh1OW51eG9hb2RubCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="350"/>
